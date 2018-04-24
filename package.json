@@ -1,7 +1,7 @@
 {
   "name": "hashmax",
   "version": "1.0.0",
-  "description": "From a string to an integer",
+  "description": "From a string to an integer in [0..max]",
   "scripts": {
     "test": "node test"
   },
