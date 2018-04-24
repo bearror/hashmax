@@ -1,0 +1,18 @@
+{
+  "name": "hashmax",
+  "version": "1.0.0",
+  "description": "From a string to an integer",
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": "bearror/hashmax",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.4.7"
+  },
+  "author": "bearror",
+  "license": "MIT"
+}
