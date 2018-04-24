@@ -1,6 +1,6 @@
 # ▶ hashmax
 
-[![Build Status](https://travis-ci.org/bearror/oletus.svg?branch=master)](https://travis-ci.org/bearror/oletus)
+[![Build Status](https://travis-ci.org/bearror/hashmax.svg?branch=master)](https://travis-ci.org/bearror/hashmax)
 
 Hashes a string to an integer in the range of `[0..max]`.
 
